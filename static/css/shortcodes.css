@@ -1066,7 +1066,7 @@
 }
 
 .hover-effect::before {
-    background-color: #1D1D1D;
+    /* background-color: #1D1D1D; */
     position: absolute;
     top: 100%;
     width: 100%;
