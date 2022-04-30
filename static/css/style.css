@@ -1719,7 +1719,11 @@ h6 a {
 -------------------------------------------------------------- */
 .widget {
     list-style-type: none;
-    text-align: left;
+    text-align: center;
+}
+
+.widget-list {
+    padding-left: 500px;
 }
 
 .widget .widget-title {
@@ -2053,7 +2057,7 @@ h6 a {
 }
 
 .widget-contact {
-    padding-left: 153px
+    /* padding-left: 153px */
 }
 
 .widget-footer .widget-title {
