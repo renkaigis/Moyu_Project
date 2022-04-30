@@ -899,7 +899,7 @@
     letter-spacing: -1.5px;
     font-size: 52px;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .tf-title-style2 {
@@ -1537,7 +1537,7 @@
 }
 
 .content-about-us {
-    padding: 9% 23% 5% 1.5%;
+    padding: 4% 12% 5% 1.5%;
 }
 
 .content-about-us p {
@@ -1685,6 +1685,7 @@
 .tf-section.wrap-our-menu .imgbg1,
 .tf-section.wrap-our-menu .imgbg2 {
     position: absolute;
+    width: 30%;
 }
 
 .tf-section.wrap-our-menu .imgbg1 {
@@ -1725,14 +1726,15 @@
 }
 
 .our-menu-item .content-menu-item .heading {
-    font-size: 27px;
+    font-size: 35px;
+    font-weight: 500;
     line-height: 32px;
 }
 
 .our-menu-item .content-menu-item .sub-heading {
     font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
-    line-height: 22px;
+    font-size: 20px;
+    line-height: 40px;
     margin-top: -8px;
 }
 
